@@ -16,9 +16,11 @@ This Excel-based interactive dashboard is designed for analyzing bike sales data
 
 Raw data stored in an Excel sheet (bike_buyers).
 
-Pivot Tables used to summarize data.
+then
 
-Power Query (optional) for data cleaning and transformation.
+Power Query for data cleaning and Data 3D transformation.
+
+Pivot Tables used to summarize data.
 
 2️⃣ **Dashboard Elements**
 
