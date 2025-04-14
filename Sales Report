@@ -1,0 +1,33 @@
+##Project Title: Sales Performance Report (2019–2021)
+
+Tools Used: Microsoft Excel, Power Query, Power Pivot
+
+ETL Process:
+
+Extracted raw sales data from multiple sources
+
+Transformed and cleaned data using Power Query
+
+Loaded data into Power Pivot for modeling and analysis
+
+Data Modeling:
+
+Built relationships between tables
+
+Created calculated columns and measures using DAX
+
+Reporting & Insights:
+
+Customer-wise net sales performance
+
+Market-wise performance vs. targets
+
+Top 10 and bottom 5 products by quantity and sales
+
+Division-level growth analysis
+
+Country-wise sales breakdown
+
+Analysis of new product launches in 2021
+
+Outcome: Interactive and insightful Excel dashboard showcasing multi-dimensional business performance trends
